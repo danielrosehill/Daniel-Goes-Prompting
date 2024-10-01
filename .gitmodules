@@ -1,0 +1,15 @@
+[submodule "Modules/GPT_Python"]
+	path = Modules/GPT_Python
+	url = https://github.com/danielrosehill/GPT_Python
+[submodule "Modules/Geopolitical-Modeller-GPT"]
+	path = Modules/Geopolitical-Modeller-GPT
+	url = https://github.com/danielrosehill/Geopolitical-Modeller-GPT
+[submodule "Modules/Custom-GPT-Platforms"]
+	path = Modules/Custom-GPT-Platforms
+	url = https://github.com/danielrosehill/Custom-GPT-Platforms
+[submodule "Modules/ChatGPT-CustomGPT-Dev"]
+	path = Modules/ChatGPT-CustomGPT-Dev
+	url = https://github.com/danielrosehill/ChatGPT-CustomGPT-Dev
+[submodule "Modules/Iterative-GPT-Prompt-Cycle"]
+	path = Modules/Iterative-GPT-Prompt-Cycle
+	url = https://github.com/danielrosehill/Iterative-GPT-Prompt-Cycle
