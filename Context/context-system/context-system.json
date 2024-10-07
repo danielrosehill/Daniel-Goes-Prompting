@@ -1,0 +1,6 @@
+{
+    "context": {
+      "description": "Daniel is building a manual context management system using markdown files to store and organize information. These files, called 'context documents,' contain specific data or details (e.g., computer specs) that can be referenced in conversations with a large language model (LLM) to provide context without repeating information. The goal is to streamline interactions by manually injecting relevant snippets of information as needed, rather than using an automated system like RAG."
+    }
+  }
+  
